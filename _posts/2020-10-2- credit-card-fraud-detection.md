@@ -58,13 +58,9 @@ Testing data for a Valid transaction can be found in the ***"valid_values.csv"**
 
 Our Credit Card Fraud Detection web app is available at: [Credit Card Fraud Detection](https://www.google.com/url?q=https://credit-card-fraud-detect-ion.herokuapp.com/&sa=D&source=hangouts&ust=1599890506172000&usg=AFQjCNFMw5kRvTCqhn-xm35d7hSq0sooYQ)
 
-The notebook used to train the model for this web app can be found [here](https://www.kaggle.com/hungrywolf/different-methods).
+The notebook used to train the model for this web app can be found [here](https://github.com/deepanshu20/data-science-project/blob/master/credit-card-fraud-detection/credit%20card%20%20fraud%20detections%20.ipynb).
 
 To Contact Us:
-- Gajendra Saraswat
-    - [Kaggle](https://www.kaggle.com/sarques)    
-    - [LinkedIn](https://www.linkedin.com/in/gajendra-saraswat-221102165/)
-    - [Twitter](https://twitter.com/Saarques)
-- Ravikant Vijayvargiya
-    - [Kaggle](https://www.kaggle.com/hungrywolf)
-    - [LinkedIn](https://www.linkedin.com/in/ravikant-vijayvargiya/)
+- Deepanshu sharma
+    - [LinkedIn](https://www.linkedin.com/in/deepanshu-sharma-/)
+    - 
