@@ -145,7 +145,7 @@ Following are the insights as the results of computing Price elasticity
 
 - Thus concluding that inc of the same 1% at different price points has different impacts on our sales
     
-    <img src="https://github.com/sai-krishna-msk/Customer_Anylatics/blob/master/images/price-elasticity-curve.png?raw=true">
+    <img src="https://github.com/deepanshu20/data-science-project/blob/master/Customer_Anylatics/images/price-elasticity-curve.png?raw=true">
     
 - We were able to find out which segment of customers are most sensitive to price changes than others
     - **Working Class is the most sensitive to price changes**
