@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Deepanshu Sharma"
-  avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/36375140_469715116800441_1298532019906543616_n.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Delhi"
   email            :
