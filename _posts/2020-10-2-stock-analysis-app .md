@@ -32,7 +32,7 @@ Python 3.6 version or superior
 3.  run: `pip install -r requirements.txt` in your shell
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-git clone https://github.com/antonio-catalano/StockAnalysisApp.git
+git clone https://github.com/deepanshu20/data-science-project.git
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
  
