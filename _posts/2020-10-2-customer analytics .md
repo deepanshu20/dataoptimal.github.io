@@ -15,7 +15,7 @@
 # Context and Data
 The dataset consists of information about the purchases of chocolate candy bars(5 different brands) of 500 individuals from a given area when entering a physical ‘FMCG’ store in a period of 2 years. All data has been collected through the loyalty cards they use at checkout. The data has been preprocessed and there are no missing values. In addition, the volume of the dataset has been restricted and anonymized  to protect the privacy of the customers.
 
-Description of each column and what they represent are present in [purchase-data-legend file](https://github.com/sai-krishna-msk/Customer_Anylatics/blob/master/purchase-data-legend.pdf)
+Description of each column and what they represent are present in [purchase-data-legend file](https://github.com/deepanshu20/data-science-project/blob/master/Customer_Anylatics/purchase-data-legend.pdf)
 
 <hr>
 
@@ -92,7 +92,7 @@ As we have 5 different brands and their respective purchase data, Computing cros
 
 # Results
 
-*All of  the results shown can be found in the notebooks present in [github](https://github.com/sai-krishna-msk/Customer_Anylatics)*
+*All of  the results shown can be found in the notebooks present in [github](https://github.com/deepanshu20/data-science-project/tree/master/Customer_Anylatics)*
 
 <br>
 
@@ -112,7 +112,7 @@ As we have 5 different brands and their respective purchase data, Computing cros
 
 **A few other results of segmentation are mentioned in the price elasticity section below**
 
-<img src="https://github.com/sai-krishna-msk/Customer_Anylatics/blob/master/images/cluster_pca_wpca.png?raw=true">
+<img src="https://github.com/deepanshu20/data-science-project/blob/master/Customer_Anylatics/images/cluster_pca_wpca.png?raw=true">
 
 <br>
 
@@ -154,7 +154,7 @@ Following are the insights as the results of computing Price elasticity
     
 - **We found out that people were less elastic to price increases when there was a sale, meaning advertising the price of a product as a discounted price would make customers less sensitive to price increases of the product**
 
-<img src="https://github.com/sai-krishna-msk/Customer_Anylatics/blob/master/images/prom0-prom1.png?raw=true">
+<img src="https://github.com/deepanshu20/data-science-project/blob/master/Customer_Anylatics/images/segment-price-elasticity.png?raw=true">
 
 
 These insights can assist us in making decisions like budget allocation for marketing/advertisement of each segment for a promotion
@@ -173,7 +173,7 @@ Following are the insights as the result of computing cross-price elasticity, co
     -** It was computed that if brand-1 increases it's price by 1% then to nullify the decrease in our sales we could simply decrease our price by 0.2%**
     
 
-<img src="https://github.com/sai-krishna-msk/Customer_Anylatics/blob/master/images/cross-elastic.png?raw=true">
+<img src="https://github.com/deepanshu20/data-science-project/blob/master/Customer_Anylatics/images/cross-elastic.png?raw=true">
 
 These insights would help us in making strategic decisions about adjusting our prices to gain or maintain the market share as the result of our competitors altering their prices
 
