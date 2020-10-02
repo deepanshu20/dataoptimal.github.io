@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/36375140_469715116800441_1298532019906543616_n.jpg"
+  image: "fort point.png"
 ---
 
 Hi, my name is Deepanshu sharma and I work  as a freelance data analyst/scientist. I hold a Bachelor’s and Master’s degree in Finance  
