@@ -2,9 +2,13 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/zakim.jpg"
+  image: "/36375140_469715116800441_1298532019906543616_n.jpg"
 ---
 
-I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
+Hi, my name is Deepanshu sharma and I work  as a freelance data analyst/scientist. I hold a Bachelor’s and Master’s degree in Finance  
 
-Etc, etc, etc
+Since I was young, I have always enjoyed to solve puzzles. So that’s how I look at big data sets: to me it is one big puzzle I want to solve. Finding patterns nobody else sees is the challenge to me.
+
+During my  freelancer work , I had worked on many project which gives me the ability to translate complex questions into understandable insights.
+
+Do you want to work together? Please reach out to me by e-mail.
